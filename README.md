@@ -20,10 +20,8 @@ AlgoSearch is a dynamic search engine designed to streamline your journey throug
 - **Seamless Navigation:** Built with Next.js for seamless and fast navigation.
 
 ## Getting Started
-
-1. Clone the repository: `git clone https://github.com/surajxd/AlgoSearch.git`
-2. Install dependencies: `npm install`
-3. Run the app: `npm run dev`
+1. Install dependencies: `npm install`
+2. Run the app: `npm run dev`
 
 ## Project Structure
 
